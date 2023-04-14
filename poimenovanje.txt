@@ -1,0 +1,32 @@
+example.com
+com.example
+
+github.com/e-gradivo
+e-gradivo.github.io
+
+Zignov.github.io
+io.github.Zignov
+
+java.util
+java.lang
+
+trgovina
+racuni
+util
+
+io.github.Zignov.trgovina
+io.github.Zignov.racuni
+io.github.Zignov.util
+
+
+celotno poimenovanje paketa
+
+ io
+ --->github
+ ------>Zignov
+ --------->trgovina
+
+
+java.util.Random
+io.github.Zignov.trgovina.Narocilo
+io.github.Zignov.racuni.Narocilo
